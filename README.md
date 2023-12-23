@@ -28,7 +28,7 @@
 - `Expertise`: Crowdsourcing Experiments for Video Quality Assessment, Large Data Analysis and Visualization, ...
 - I’m currently in the 3rd year of my Ph.D. 
 - This is [MY RÉSUMÉ](https://drive.google.com/file/d/1EkVD3-tHPmygsHiyE13XRi_7zyltkbqI/view)
-<!–– & looking for a `postdoctoral position`, -->this is [MY RÉSUMÉ](https://www.Avrajyotidutta.com/_files/ugd/e499d0_cd67803fa0994ed0873e30caffd91f00.pdf).
+<!–– & looking for a `postdoctoral position`, this is [MY RÉSUMÉ](https://www.Avrajyotidutta.com/_files/ugd/e499d0_cd67803fa0994ed0873e30caffd91f00.pdf). -->
 <!–– - 📌 You can visit [MY WEBSITE](https://www.Avrajyotidutta.com). -->
 - I'm open to discussions/suggestions about my work, research ideas, or Quality of Experience (QoE) for Video Quality Assessment in general. 
 - Don't hesitate to reach out to me! ✉️ 💬
