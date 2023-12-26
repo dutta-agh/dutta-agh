@@ -27,8 +27,9 @@
 - I am also interested in underwater image quality assessment.
 - `Expertise`: Crowdsourcing Experiments for Video Quality Assessment, Large Data Analysis and Visualization, ...
 - I’m currently in the 3rd year of my Ph.D. 
-- This is [MY RÉSUMÉ](https://drive.google.com/file/d/1EkVD3-tHPmygsHiyE13XRi_7zyltkbqI/view)
+- This is [MY RÉSUMÉ](https://avrajyotidutta.co.in/wp-content/uploads/2023/12/CV.pdf)
 - I'm open to discussions/suggestions about my work, research ideas, or Quality of Experience (QoE) for Video Quality Assessment in general. 
 - Don't hesitate to reach out to me! ✉️ 💬
+- 📌 You can visit [MY WEBSITE](https://www.avrajyotidutta.co.in).
 - You can see my `publications` at [Google Scholar](https://scholar.google.com/citations?user=M5FFGSkAAAAJ&hl=en&oi=ao), [AGH BPP](https://bpp.agh.edu.pl/autor/dutta-avrajyoti-59506) or [ORCiD](https://orcid.org/0000-0001-5749-0256).
 <br>
