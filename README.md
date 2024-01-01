@@ -21,12 +21,11 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - I'm a `Multimedia Researcher`. 
-- Currently, I'm a Ph.D. student at the [Department of Information & Communication Technology](https://qoe.agh.edu.pl/members/), [AGH University of Science and Technology, Krakow, Poland](https://www.agh.edu.pl/en). 
+- Currently, I'm a 3rd year Ph.D. student at the [Department of Information & Communication Technology](https://qoe.agh.edu.pl/members/), [AGH University of Science and Technology, Krakow, Poland](https://www.agh.edu.pl/en). 
 - I work on designing Crowdsourcing Experiments for Video Quality Assessment.
 - `Research interest`: Quality of Experience (QoE) in Video Quality Assessment.
 - I am also interested in underwater image quality assessment.
 - `Expertise`: Crowdsourcing Experiments for Video Quality Assessment, Large Data Analysis and Visualization, ...
-- I’m currently in the 3rd year of my Ph.D. 
 - This is [MY RÉSUMÉ](https://avrajyotidutta.co.in/wp-content/uploads/2023/12/CV.pdf)
 - I'm open to discussions/suggestions about my work, research ideas, or Quality of Experience (QoE) for Video Quality Assessment in general. 
 - Don't hesitate to reach out to me! ✉️ 💬
